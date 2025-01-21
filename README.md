@@ -30,7 +30,7 @@ You can explore my work on [Google Scholar](https://scholar.google.com/citations
 
 ## 🌐 Connect with Me  
 
-- 💼 [LinkedIn](https://www.linkedin.com/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/antonio-zaitoun/)  
 - 📧 antonio@zaitoun.dev
 
 ---
