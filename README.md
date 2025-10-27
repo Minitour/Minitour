@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Antonio Zaitoun  
 
-🌟 **Staff Data Architect** @ GE HealthCare  
+🌟 **Sr. Software Engineer** @ DoubleVerify  
 🎓 **PhD Candidate** @ University of Haifa  
 💻 **Open-Source Contributor | Researcher | AI Enthusiast**  
 
